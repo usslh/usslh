@@ -1,3 +1,3 @@
 ## Hi there 👋
-![вв](https://64.media.tumblr.com/5e0a3f042963b6db0ccf57608ae96326/f8bc891b31c012ce-a6/s75x75_c1/b2f1dd6c1a334a31679573db1617ecc92c956e27.gifv)
+![вв](https://64.media.tumblr.com/1f794fdf10918ce0b02404f7c904b74a/e4cb8a3362e31d82-91/s100x200/5701fbfe2364077e13418c82c02b545433146bc1.gifv)
 
