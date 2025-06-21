@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=usslh&color=blue)
+<p align="center"> ![^_^](https://komarev.com/ghpvc/?username=usslh&color=blue)
 
 <p align="center"> тест 
   
