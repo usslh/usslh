@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center"> ![^_^](https://komarev.com/ghpvc/?username=usslh&color=blue)
+![^_^](https://komarev.com/ghpvc/?username=usslh&color=blue)
 
 <p align="center"> тест 
   
