@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![trollface](https://komarev.com/ghpvc/?username=usslh&label=trollface&color=8B0000)
+![trollface](https://komarev.com/ghpvc/?username=usslh&label=trollface&color=448549)
 
 <p align="center"> тест 
   
