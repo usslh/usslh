@@ -5,7 +5,9 @@
 </p>
 
 
-![two](https://github.com/user-attachments/assets/8fd794b3-9c50-471f-a292-d08f8f56770b)
+<p align="center">
+  <img src="(https://github.com/user-attachments/assets/8fd794b3-9c50-471f-a292-d08f8f56770b)" alt="описание" width="300"/>
+</p>
 
 
 
