@@ -5,9 +5,6 @@
 </p>
 
 
-<p align="center">
-  <img src="(https://github.com/user-attachments/assets/8fd794b3-9c50-471f-a292-d08f8f56770b)" />
-</p>
-
+![two](https://github.com/user-attachments/assets/7de87498-2fba-4b1b-823a-0eee1af8d99f)
 
 
