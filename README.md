@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src=https://64.media.tumblr.com/96be0080107885fe8105002b2e4bd7f0/97fd37332d902e56-f2/s540x810/2e304ead561ae0dd398c996ec70d0ecf6c8ca706.pnj" width="300"/>
+  <img src=https://64.media.tumblr.com/363325af78c2890ce16bfe4b32f89eb5/dc4f3c60516a89e4-20/s540x810/c851cb85502f103fae4973be60e4d3147243657b.pnj" width="300"/>
 </p>
 
 ![Red Dead Redemption 2](https://github.com/user-attachments/assets/324b14e7-b9e6-4519-a4c5-3654a90ea8dc)
