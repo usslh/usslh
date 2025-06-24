@@ -5,6 +5,8 @@
 </p>
 
 
-![two](https://github.com/user-attachments/assets/7de87498-2fba-4b1b-823a-0eee1af8d99f)
+<p align="center">
+<img src="[https://files.catbox.moe/fr31v4.jpeg](https://github.com/user-attachments/assets/7de87498-2fba-4b1b-823a-0eee1af8d99f)">
+</p>
 
 
