@@ -4,6 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=usslh&label=trollface&color=c8c3bd" alt="trollface" />
 </p>
 
-![тайм](https://github.com/user-attachments/assets/300ee787-e4d2-4c16-a32a-8739f9260d9c)
+![Cineris Somnia](https://github.com/user-attachments/assets/fc7e583b-a92a-4651-b399-5d204437d061)
 
 
