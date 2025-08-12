@@ -14,7 +14,7 @@
 
 
 
-![Spotify](https://novatoremusslh.vercel.app/api/spotify)
+![Spotify](https://novatorem-stockholmski.vercel.app/api/spotify)
 
 
 
