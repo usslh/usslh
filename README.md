@@ -14,6 +14,7 @@
 
 
 
+![Spotify](https://novatorem-usslh.vercel.app/api/spotify)
 
 
 
