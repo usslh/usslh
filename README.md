@@ -14,6 +14,5 @@
 </p>
 
 <p align="center">
-  <img src=" https://github.com/user-attachments/assets/3e8b7d6c-0745-46f3-83f9-805cc0dc9dfd)
-" alt="pusheen" />
-</p>
+  <img src="https://ru.pinterest.com/pin/15762667443966366/" />
+</p> 
