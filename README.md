@@ -1,7 +1,7 @@
 ## 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usslh&label=trollface&color=1e81b0" alt="trollface" />
+  <img src="https://komarev.com/ghpvc/?username=usslh&label=trollface&color=e4eef3" alt="trollface" />
 </p>
 
 <div align="center">
