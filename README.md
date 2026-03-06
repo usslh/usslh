@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="https://ru.pinterest.com/pin/15762667443966366/" />
+  <img src="https://ru.pinterest.com/pin/15762667443966366/" 
 </p> 
