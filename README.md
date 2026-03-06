@@ -12,3 +12,8 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/8c4ca2dd6fc0b4242c499ed4c2440501/02fb793adc48ef9d-63/s540x810/2d289beb4f2885c7c15a4f136fcd6f3d35feb0fe.pnj" alt="pusheen" />
 </p>
+
+<p align="center">
+  <img src="![Enhoonbot Fiona Shameless GIF – Enhoonbot Fiona shameless – Ищите GIF-файлы и обменивайтесь ими](https://github.com/user-attachments/assets/3e8b7d6c-0745-46f3-83f9-805cc0dc9dfd)
+" alt="pusheen" />
+</p>
