@@ -14,6 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="![Enhoonbot Fiona Shameless GIF – Enhoonbot Fiona shameless – Ищите GIF-файлы и обменивайтесь ими](https://github.com/user-attachments/assets/3e8b7d6c-0745-46f3-83f9-805cc0dc9dfd)
+  <img src=" https://github.com/user-attachments/assets/3e8b7d6c-0745-46f3-83f9-805cc0dc9dfd)
 " alt="pusheen" />
 </p>
