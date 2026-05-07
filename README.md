@@ -11,4 +11,5 @@
     width="600"  
 </div>
 
-<img width="1126" height="520" alt="5431420809827260580" src="https://github.com/user-attachments/assets/023a27f4-5d20-4929-81ba-3a9e0fa0c8a7" />
+<img width="971" height="691" alt="неуважение" src="https://github.com/user-attachments/assets/795e168c-5cc8-4d5d-b4a8-6e1f7a068fc6" />
+
