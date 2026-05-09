@@ -13,6 +13,5 @@
 
 
 
-<img width="1280" height="1272" alt="5188594238063580623" src="https://github.com/user-attachments/assets/463698ca-f729-4c39-a076-3c864d9960d1" />
-<img width="1280" height="1159" alt="5188594238063580625" src="https://github.com/user-attachments/assets/946e3d3e-be86-4b45-a79f-f8af1437bc47" />
-а эта сиська
+<img width="1099" height="1280" alt="5188594238063580622" src="https://github.com/user-attachments/assets/52be4e81-3c3d-420c-98bf-f961f0d501e6" />
+
