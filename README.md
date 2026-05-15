@@ -14,6 +14,6 @@
 <img width="1280" height="1159" alt="5188594238063580625" src="https://github.com/user-attachments/assets/20104415-7ddd-4f3c-8424-bbb5ecd81d11" />
 
 siska
-<img width="808" height="1280" alt="5206342060837901119" src="https://github.com/user-attachments/assets/ef6ed6e5-53db-49b6-acaa-0442fec69c57" />
+
 
 
