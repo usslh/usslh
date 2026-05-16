@@ -19,7 +19,7 @@ siska
 
 
 
-<img width="808" height="1280" alt="5206322913873698614" src="https://github.com/user-attachments/assets/72a5fb74-2e12-4fbb-827f-2a1c0e2c619f" />
+
 
 
 
