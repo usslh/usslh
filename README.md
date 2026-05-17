@@ -18,7 +18,7 @@ siska
  
  
  
- [тест]([https://x.com/cheescakelrker?s=21](https://www.youtube.com/watch?v=9IuRG0oa1K4&t=1255s))
+ [тест](https://www.youtube.com/watch?v=9IuRG0oa1K4&t=1255s)
 
 
 
