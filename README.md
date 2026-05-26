@@ -10,7 +10,7 @@
  
 <div align="center">
 
-  [𝗉𝗋𝗇𝗌](https://en.pronouns.page/@stockholmski#google_vignette)  ![f](https://64.media.tumblr.com/c3b13f595f3d111ec5edf21ff37dd249/tumblr_o1uk60HyyJ1v70b9xo1_250.gifv)   [𝖺𝗍𝖺](https://stockholmski.atabook.org/)
+  [𝗉𝗋𝗇𝗌](https://en.pronouns.page/@stockholmski#google_vignette) ![f](https://64.media.tumblr.com/591be8fc20985150001a8b40c1ffd746/b88d2c86079c732a-74/s250x400/6dfc89d8ada448c9b4db3b30d18d84b05a03ae93.gifv)   [𝖺𝗍𝖺](https://stockholmski.atabook.org/)
 
 </div>
 
