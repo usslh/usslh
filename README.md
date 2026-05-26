@@ -9,7 +9,9 @@
  
  
 <div align="center">
-[𝗉𝗋𝗇𝗌](https://en.pronouns.page/@stockholmski#google_vignette)      [𝖺𝗍𝖺](https://stockholmski.atabook.org/)
+
+  [𝗉𝗋𝗇𝗌](https://en.pronouns.page/@stockholmski#google_vignette)      [𝖺𝗍𝖺](https://stockholmski.atabook.org/)
+
 </div>
 
 
