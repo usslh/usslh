@@ -1,15 +1,8 @@
 ## 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usslh&label=%28%20%CB%83%E2%80%8C%20%E3%85%85%20%CB%82%E2%80%8C%20%29&color=fc99c3&style=for-the-badge" alt="( ˃‌ ㅅ ˂‌ )" />
+  <img src="https://komarev.com/ghpvc/?username=usslh&label=%28%20%CB%83%E2%80%8C%20%E3%85%85%20%CB%82%E2%80%8C%20%29&color=fc99c3&style=flat-square" alt="( ˃‌ ㅅ ˂‌ )" />
 </p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usslh&label=%28%20%CB%83%E2%80%8C%20%E3%85%85%20%CB%82%E2%80%8C%20%29&color=a1a292&labelColor=a1a292&style=for-the-badge" />
-</p>
-
-
 
 
 
