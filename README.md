@@ -1,7 +1,7 @@
 ## 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usslh&label=%28%20%CB%83%E2%80%8C%20%E3%85%85%20%CB%82%E2%80%8C%20%29&color=fa8ad0&style=flat" alt="( ˃‌ ㅅ ˂‌ )" />
+  <img src="https://komarev.com/ghpvc/?username=usslh&label=%28%20%CB%83%E2%80%8C%20%E3%85%85%20%CB%82%E2%80%8C%20%29&color=fc99c3&style=plastic" alt="( ˃‌ ㅅ ˂‌ )" />
 </p>
 
 
