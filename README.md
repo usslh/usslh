@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<span style="color:#ffb6c1;">౨ৎ</span>
+${\textsf{\color{#E9E6D5} ౨ৎ
 &nbsp;
 [𝗉𝗋𝗇𝗌](https://en.pronouns.page/@stockholmski#google_vignette)
 &nbsp; 
