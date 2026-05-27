@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<span style="color:#fc99c3;">౨ৎ</span>
+<span style="color:#ffb6c1;">౨ৎ</span>
 &nbsp;
 [𝗉𝗋𝗇𝗌](https://en.pronouns.page/@stockholmski#google_vignette)
 &nbsp; 
@@ -27,6 +27,31 @@
   ![p](https://64.media.tumblr.com/6a98d64870578450d2ce103ff8234243/650c133feed9c39f-43/s100x200/9e13b8a9e0ce581c45d7c729c4d5e245da1c52da.pnj) ![p](https://64.media.tumblr.com/91e469fcc0982af5eae306182b0eb6a3/650c133feed9c39f-5c/s100x200/e176b9c877fe9c06a3709b2043d239c0d828344c.pnj) ![p](https://64.media.tumblr.com/59afea79278f623912af513dc0c73948/c7622e3007499f41-ec/s100x200/5e72c4cb3fa77701d8e0d58ee435bf28ee76ca27.gifv) ![p](https://64.media.tumblr.com/7bcf81f55e4a22c66fdb846e7915b93a/a4da6f660dc010ff-6f/s100x200/e35f971bd2c53f3e2f8a3453584f9496a1b66334.pnj) ![p](https://64.media.tumblr.com/53284d744c6181ad8f0d995c716bdbd2/1a17a31a2b2cfdac-02/s250x400/38d5493c27179e40d391bca55b926da102eda2e8.pnj) ![p](https://64.media.tumblr.com/944729a8270ba2305a0ea0aea0823f1e/bfe484ba56a93f86-1c/s100x200/4530009924c7b9ae215ffa1fb27b6c345834f9f1.pnj)
 
 </div>
+
+
+
+
+<div align="center">
+
+<span style="color:#ffb6c1;">౨ৎ</span>
+&nbsp;
+
+[𝗉𝗋𝗇𝗌](https://en.pronouns.page/@stockholmski#google_vignette)
+
+&nbsp;
+
+<img src="https://64.media.tumblr.com/4fd35816fffe53ee652d5cc8e60b29ee/1bb1188b9f039f48-73/s75x75_c1/eb93d763439ceaaba8ee65b447120ec928699932.gifv" width="20" align="center">
+
+&nbsp;
+
+[𝖺𝗍𝖺](https://stockholmski.atabook.org/)
+
+&nbsp;
+
+<span style="color:#ffb6c1;">ꔛ</span>
+
+</div>
+
 
 
 
