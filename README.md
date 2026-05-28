@@ -8,7 +8,7 @@
 
 <div align="center">
 
-౨ৎ &nbsp;
+୨ &nbsp;
 &nbsp;
 [𝗉𝗋𝗇𝗌](https://en.pronouns.page/@stockholmski#google_vignette)
 &nbsp; 
