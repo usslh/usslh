@@ -33,7 +33,6 @@
 </div>
 
 
-![p](https://ibb.co/JjSh4yDf)
 
 
 
