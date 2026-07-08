@@ -18,7 +18,7 @@
 &nbsp;
 <img src="https://64.media.tumblr.com/204cfeb8f36b1dd06763d6810e01946b/0ff21daacf0346e3-32/s75x75_c1/c15d4967e1400e05a3feaf2363c9cb9f02ddb084.gifv" width="20" align="center">
 &nbsp;
-[𝗆𝗒 𝗌𝗄𝖾𝗍𝖼𝗁𝖾𝗌](https://stockholmski.straw.page/)
+[𝗆𝗒 𝖺𝗋𝗍](https://stockholmski.straw.page/)
 &nbsp; ꔛ
 
 </div>
