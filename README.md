@@ -1,5 +1,7 @@
 ## 
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xjud6cycdvot5czgfkojof6xk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usslh&label=%28%20%CB%83%E2%80%8C%20%E3%85%85%20%CB%82%E2%80%8C%20%29&color=fc99c3&style=plastic" alt="( ˃‌ ㅅ ˂‌ )" />
 </p>
